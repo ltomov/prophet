@@ -1,4 +1,4 @@
-'use strict';
+ 'use strict';
 import * as glob from 'glob';
 import { TreeItemCollapsibleState } from 'vscode';
 import { exists, readFile, existsSync, mkdirSync, writeFile, mkdir, } from 'fs';
